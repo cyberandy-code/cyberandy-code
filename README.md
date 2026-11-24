@@ -5,7 +5,7 @@ I work on AI risk and governance, drawing on a background in military intelligen
 This is where I do my independent research in public: small, honest first passes that I share early and improve over time. Critique is welcome.
 
 **Current work**
-- [**Radical Optionality at the State Level**](https://github.com/YOUR-USERNAME/radical-optionality-wargame): a multi-method war game (matrix game, red team, Monte Carlo robustness model) on how U.S. states can prepare for AI under deep uncertainty, with an open model and data
+- [**State AI Governance War Game**](https://github.com/YOUR-USERNAME/radical-optionality-wargame): a multi-method war game (matrix game, red team, Monte Carlo robustness model) on how U.S. states can prepare for AI under deep uncertainty, with an open model and data
 
 **Interests:** AI governance · AI risk and incident response · war gaming and scenario planning · trust and safety · decision making under uncertainty
 
